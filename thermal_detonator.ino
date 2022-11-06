@@ -1,5 +1,5 @@
 /*
- Name:    StarWars_ThermalDetonator.ino
+ Name:    thermal_detonator.ino
  Created: 21/05/2022 
  Author:  Claudia Panait
 
