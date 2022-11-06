@@ -12,5 +12,6 @@ SOFTWARE DESIGN
 
 -Used libraries: 
 
-SoftwareSerial.h / https://docs.arduino.cc/learn/built-in-libraries/software-serial
-DFRobotDFPlayerMini.h / https://github.com/DFRobot/DFRobotDFPlayerMini
+  SoftwareSerial.h / https://docs.arduino.cc/learn/built-in-libraries/software-serial
+
+  DFRobotDFPlayerMini.h / https://github.com/DFRobot/DFRobotDFPlayerMini
