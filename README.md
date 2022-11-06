@@ -15,3 +15,20 @@ SOFTWARE DESIGN
   SoftwareSerial.h / https://docs.arduino.cc/learn/built-in-libraries/software-serial
 
   DFRobotDFPlayerMini.h / https://github.com/DFRobot/DFRobotDFPlayerMini
+
+
+--------------------------------------------- 
+
+^ Name         ^ Quantity ^ 
+| Arduino Pro Mini       |    1    | 
+| Vibration Sensor Module SW-420      |    1    |
+| DFPlayer Mini     |    1    | 
+| Speaker      |    1    | 
+| Red LED    |    1    | 
+| Yellow LED     |    3    |
+| 100 Ohm Resistor     |    1    | 
+| 1k Ohm Resistor     |    1    |
+| Microswitch     |    1    |
+| Switch     |    1    |
+| 9V Battery     |    1    |
+| Plastic ball shaped case     |    1    |
