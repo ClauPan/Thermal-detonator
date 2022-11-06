@@ -44,8 +44,11 @@ SOFTWARE DESIGN
 RESOURCES
 
 -SW-420 Vibration Sensor Module / https://components101.com/sensors/sw-420-vibration-sensor-module
+
 -Arduino Pro Mini / https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
 -Arduino Pro Mini / https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMini16MHzv1.pdf
+
 -DFR0299 DFPlayer Mini / https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
 
 
