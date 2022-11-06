@@ -1,7 +1,7 @@
 /*
  Name:    StarWars_ThermalDetonator.ino
  Created: 21/05/2022 
- Author:  KrytClaw
+ Author:  Claudia Panait
 
 */
 
