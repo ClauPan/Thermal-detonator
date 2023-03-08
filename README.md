@@ -1,11 +1,10 @@
 # Thermal Detonator
 
-********** 
-GENERAL DESCRIPTION
+## GENERAL DESCRIPTION
 
  The idea of this project is to replicate the looks of a Star Wars detonator by using an Arduino microcontroller board. When the switch is pressed, the LEDs will light up in a specific order as well as the speaker will be emitting a particular sound, both of this signifying the start of an arming sequence for the detonator. When the detonator is thrown and it hits an object, the LED’s will all be on at the same time and the speaker will emit an explosion sound.
-********** 
-COMPONENTS
+
+## COMPONENTS
 
 Arduino Pro Mini
 
@@ -29,8 +28,7 @@ Switch
 
 9V Battery
 
-********** 
-SOFTWARE DESIGN
+## SOFTWARE DESIGN
 
 -Development environments used: ArduinoIDE
 
@@ -40,8 +38,7 @@ SOFTWARE DESIGN
 
   DFRobotDFPlayerMini.h / https://github.com/DFRobot/DFRobotDFPlayerMini
 
-********** 
-RESOURCES
+## RESOURCES
 
 -SW-420 Vibration Sensor Module / https://components101.com/sensors/sw-420-vibration-sensor-module
 
